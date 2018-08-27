@@ -3,7 +3,9 @@ VTChain is a distributed, production-level open ecosystem for building commercia
 The nature of the VTChain project: The project is a public welfare project aimed at promoting the development and improvement of blockchain 3.0 application technologies globally. The VTChain Foundation is a public welfare organization responsible for advancing and managing the development and operation of the VTChain project.
 
 Official WebSite: http://vtchain.org/
+
 WhitePaper EN: http://vtchain.org/down/vtchain_en.pdf
+
 WhitePaper CN: http://vtchain.org/down/vtchain.pdf
 
 
